@@ -1,0 +1,31 @@
+{
+ "actions": [],
+ "autoname": "autoincrement",
+ "creation": "2024-12-24 20:25:24.721436",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "email_attachment"
+ ],
+ "fields": [
+  {
+   "fieldname": "email_attachment",
+   "fieldtype": "Attach",
+   "label": "\u041f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043a \u043f\u0438\u0441\u044c\u043c\u0443"
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-12-24 20:26:31.249533",
+ "modified_by": "Administrator",
+ "module": "Library Management",
+ "name": "email_attachments",
+ "naming_rule": "Autoincrement",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC",
+ "states": []
+}
